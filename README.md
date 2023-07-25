@@ -18,7 +18,6 @@
 
 💻 Currently diving into machine learning for biological and genetic applications
 
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggiebr0wn&hide=jupyter%20notebook&layout=donut&theme=flag-india"/>
