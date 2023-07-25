@@ -46,6 +46,4 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-TFBS-Analysis&theme=buefy"/>
 </a>
 
-<a href="https://github.com/maggiebr0wn/eQTL-AbO-Conditional-Analysis">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=eQTL-AbO-Conditional-Analysis&theme=buefy"/>
-</a>
+
