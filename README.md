@@ -4,7 +4,10 @@
 **maggiebr0wn/maggiebr0wn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![](https://github.com/maggiebr0wn/maggiebr0wn#:~:text=3%20minutes%20ago-,science_gif.gif,-Add%20files%20via)
+
+<p align="right">
+  <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" width="200" height="200"/>
+</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggiebr0wn&hide=jupyter%20notebook&layout=donut&theme=shades-of-purple"/>
