@@ -6,26 +6,23 @@
 
 
 
-### About Me
-<div style="overflow: auto;">
-  <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" style="float: left; margin-right: 20px;" width="200" height="200" alt="Profile Image"/>
-  <div>
-    <ul>
-      <li>:honeybee: Bioinformatics PhD candidate at GA Tech</li>
-      <li>:peach: TX native in ATL</li>
-      <li>:dog: :turtle: My pets keep WFH from being lonely</li>
-      <li>:microscope: Expert in eQTL fine mapping, scRNA-seq & scATAC-seq analyses, building gene regulatory models</li>
-      <li>:computer: Currently diving into machine learning for biological and genetic applications</li>
-    </ul>
-  </div>
-</div>
-
-
-
-
 ### The Nitty Gritty
-
-
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="padding-right: 20px; border: none;">
+      <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" alt="Profile Image" width="200" height="200" align="left" />
+    </td>
+    <td style="border: none;">
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li>🐝 Bioinformatics PhD candidate at GA Tech</li>
+        <li>🍑 TX native in ATL</li>
+        <li>🐶🐢 My pets keep WFH from being lonely</li>
+        <li>🔬 Expert in eQTL fine mapping, scRNA-seq & scATAC-seq analyses, gene regulatory modeling</li>
+        <li>💻 Currently diving into machine learning for biological and genetic applications</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggiebr0wn&hide=jupyter%20notebook&layout=donut&theme=shades-of-purple"/>
