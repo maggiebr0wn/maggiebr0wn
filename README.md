@@ -7,11 +7,9 @@
 
 
 ### About Me
-<div style="display: flex;">
-  <div style="flex: 1; padding-right: 20px;">
-    <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" width="200" height="200" alt="Profile Image"/>
-  </div>
-  <div style="flex: 3;">
+<div style="overflow: auto;">
+  <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" style="float: left; margin-right: 20px;" width="200" height="200" alt="Profile Image"/>
+  <div>
     <ul>
       <li>:honeybee: Bioinformatics PhD candidate at GA Tech</li>
       <li>:peach: TX native in ATL</li>
