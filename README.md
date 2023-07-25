@@ -5,10 +5,10 @@
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggiebr0wn&hide=jupyter%20notebook&layout=donut&theme=buefy" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggiebr0wn&hide=jupyter%20notebook&layout=donut&theme=shades-of-purple" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=maggiebr0wn&layout=compact&theme=buefy"/>
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=maggiebr0wn&layout=compact&theme=shades-of-purple"/>
 </a>
 
 
