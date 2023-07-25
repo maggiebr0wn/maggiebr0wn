@@ -7,24 +7,19 @@
 
 
 ### About Me
-<p float="left">
-  :honeybee: Bioinformatics PhD candidate at GA Tech
-  
-  :peach: TX native in ATL
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" width="200" height="200" style="margin-right: 20px;"/>
 
-  :dog: :turtle: My pets keep WFH from being lonely
-
-  <img align="right" src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" width="200" height="200"/>
-
-</p>
+  - :honeybee: Bioinformatics PhD candidate at GA Tech
+  - :peach: TX native in ATL
+  - :dog: :turtle: My pets keep WFH from being lonely
+  - :microscope: Expert in eQTL fine mapping, scRNA-seq & scATAC-seq analyses, building gene regulatory models
+  - :computer: Currently diving into machine learning for biological and genetic applications
+</div>
 
 
 ### The Nitty Gritty
-<p align="justify">
-:microscope: Expert in eQTL fine mapping, scRNA-seq and scATAC-seq analyses, building gene regulatory models
 
-:computer: Currently diving into machine learning for biological and genetic applications
-</p>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
