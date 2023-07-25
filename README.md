@@ -36,14 +36,16 @@
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=maggiebr0wn&layout=compact&theme=flag-india"/>
 </a>
 
-## Check out my recent projects! 
+## What I've been up to :stuck_out_tongue_winking_eye: 
 
 <a href="https://github.com/maggiebr0wn/scMultiome-Crohns-Disease">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-Crohns-Disease&theme=buefy"/>
 </a>
+
 <a href="https://github.com/maggiebr0wn/scMultiome-TFBS-Analysis">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-TFBS-Analysis&theme=buefy"/>
 </a>
+
 <a href="https://github.com/maggiebr0wn/eQTL-AbO-Conditional-Analysis">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=eQTL-AbO-Conditional-Analysis&theme=buefy"/>
 </a>
