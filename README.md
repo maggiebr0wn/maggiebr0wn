@@ -7,17 +7,22 @@
 
 
 ### About Me
-<p align="center">
-  <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" width="200" height="200" style="margin-right: 20px;"/>
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 20px;">
+    <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" width="200" height="200" alt="Profile Image"/>
+  </div>
+  <div style="flex: 3;">
+    <ul>
+      <li>:honeybee: Bioinformatics PhD candidate at GA Tech</li>
+      <li>:peach: TX native in ATL</li>
+      <li>:dog: :turtle: My pets keep WFH from being lonely</li>
+      <li>:microscope: Expert in eQTL fine mapping, scRNA-seq & scATAC-seq analyses, building gene regulatory models</li>
+      <li>:computer: Currently diving into machine learning for biological and genetic applications</li>
+    </ul>
+  </div>
+</div>
 
-  <ul>
-    <li>:honeybee: Bioinformatics PhD candidate at GA Tech</li>
-    <li>:peach: TX native in ATL</li>
-    <li>:dog: :turtle: My pets keep WFH from being lonely</li>
-    <li>:microscope: Expert in eQTL fine mapping, scRNA-seq & scATAC-seq analyses, building gene regulatory models</li>
-    <li>:computer: Currently diving into machine learning for biological and genetic applications</li>
-  </ul>
-</p>
+
 
 
 ### The Nitty Gritty
