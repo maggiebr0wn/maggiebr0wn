@@ -1,8 +1,9 @@
 # So glad you're here!
 
 <p float="left">
-  <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name.jpg" height="200" align="left"/>
-  <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" alt="Profile Image" width="200" height="200" align="center" />
+<img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name.jpg" height="200" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" width="200" height="200" />
 </p>
 
 ## The Nitty Gritty
@@ -17,7 +18,7 @@
 
 💻 Currently diving into machine learning for biological and genetic applications
 
-
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggiebr0wn&hide=jupyter%20notebook&layout=donut&theme=flag-india"/>
