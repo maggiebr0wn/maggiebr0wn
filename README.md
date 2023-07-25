@@ -4,7 +4,7 @@
   &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/science_gif.gif" width="200" height="200" />
   &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name_flower.jpg" height="250" />
+<img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name_flower.jpg" height="200" />
   &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/science_gif.gif" width="200" height="200" />
 </p>
