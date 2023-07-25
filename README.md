@@ -1,22 +1,32 @@
 # So glad you're here!
 
 <p float="left">
+  &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/science_gif.gif" width="200" height="200" />
+  &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name.jpg" height="200" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" width="200" height="200" />
+  &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/science_gif.gif" width="200" height="200" />
 </p>
 
 ## The Nitty Gritty
 
-🐝 Bioinformatics PhD candidate at GA Tech
-
-🍑 TX native in ATL
-
-🐶🐢 My pets keep WFH from being lonely
-
-🔬 Expert in eQTL fine mapping, scRNA-seq & scATAC-seq analyses, gene regulatory modeling
-
-💻 Currently diving into machine learning for biological and genetic applications
+<table>
+  <tr>
+    <td width="30%">
+      <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" width="200" height="200" alt="Profile Image"/>
+    </td>
+    <td width="70%">
+      <ul>
+        <li>:honeybee: Bioinformatics PhD candidate at GA Tech</li>
+        <li>:peach: TX native in ATL</li>
+        <li>:dog: :turtle: My pets keep WFH from being lonely</li>
+        <li>:microscope: Expert in eQTL fine mapping, scRNA-seq & scATAC-seq analyses, building gene regulatory models</li>
+        <li>:computer: Currently diving into machine learning for biological and genetic applications</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
