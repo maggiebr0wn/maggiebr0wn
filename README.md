@@ -1,6 +1,9 @@
 # So glad you're here!
-<img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name.jpg" height="200" align="left"/>
-<img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" alt="Profile Image" width="200" height="200" align="center" />
+
+<p float="left">
+  <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name.jpg" height="200" align="left"/>
+  <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" alt="Profile Image" width="200" height="200" align="center" />
+</p>
 
 ## The Nitty Gritty
 
