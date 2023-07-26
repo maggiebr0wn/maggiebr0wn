@@ -1,6 +1,6 @@
 # So glad you're here!
 
-<img align = "center" src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name_horizontal.jpg" width="900" height="300" />
+<img align = "center" src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name_horizontal.jpg" width="800" height="250" />
 
 
 ## The Nitty Gritty
@@ -22,14 +22,6 @@
   </tr>
 </table>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggiebr0wn&hide=jupyter%20notebook&layout=donut&theme=flag-india"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=maggiebr0wn&layout=compact&theme=flag-india"/>
-</a>
-
 ## What I've been up to :stuck_out_tongue_winking_eye: 
 
 <a href="https://github.com/maggiebr0wn/scMultiome-Crohns-Disease">
@@ -37,7 +29,24 @@
 </a>
 
 <a href="https://github.com/maggiebr0wn/scMultiome-TFBS-Analysis">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-TFBS-Analysis&theme=solarized-light"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=eQTL-AbO-Conditional-Analysis&theme=solarized-light"/>
 </a>
 
+## Tools for the single cell Multiomers :dna: 
 
+<a href="https://github.com/maggiebr0wn/scMultiome-TFBS-Analysis">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-TFBS-Analysis&theme=moltack"/>
+</a>
+
+<a href="https://github.com/maggiebr0wn/scMultiome-TFBS-Analysis">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=ArchR-to-Seurat&theme=moltack"/>
+</a>
+
+## Nosy about my Github usage?
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggiebr0wn&hide=jupyter%20notebook&layout=donut&theme=flag-india"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=maggiebr0wn&layout=compact&theme=flag-india"/>
+</a>
