@@ -1,13 +1,7 @@
 # So glad you're here!
 
-<p float="left">
-  &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/science_gif.gif" width="200" height="200" />
-  &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name_flower.jpg" height="190" />
-  &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/science_gif.gif" width="200" height="200" />
-</p>
+<img align = "center" src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name_horizontal.jpg" width="900" height="300" />
+
 
 ## The Nitty Gritty
 
