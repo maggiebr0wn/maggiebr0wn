@@ -33,11 +33,11 @@
 ## What I've been up to :stuck_out_tongue_winking_eye: 
 
 <a href="https://github.com/maggiebr0wn/scMultiome-Crohns-Disease">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-Crohns-Disease&theme=buefy"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-Crohns-Disease&theme=solarized-light"/>
 </a>
 
 <a href="https://github.com/maggiebr0wn/scMultiome-TFBS-Analysis">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-TFBS-Analysis&theme=buefy"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-TFBS-Analysis&theme=solarized-light"/>
 </a>
 
 
