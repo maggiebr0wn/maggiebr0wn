@@ -35,11 +35,11 @@
 ## Tools for the single cell Multiomers :dna: 
 
 <a href="https://github.com/maggiebr0wn/scMultiome-TFBS-Analysis">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-TFBS-Analysis&theme=moltack"/>
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-TFBS-Analysis&theme=moltack"/>
 </a>
 
 <a href="https://github.com/maggiebr0wn/scMultiome-TFBS-Analysis">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=ArchR-to-Seurat&theme=moltack"/>
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=ArchR-to-Seurat&theme=moltack"/>
 </a>
 
 ## Nosy about my Github usage?
