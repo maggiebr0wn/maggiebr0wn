@@ -21,7 +21,7 @@
         <li>:honeybee: Bioinformatics PhD candidate at GA Tech</li>
         <li>:peach: TX native in ATL</li>
         <li>:dog: :turtle: My pets keep WFH from being lonely</li>
-        <li>:microscope: Expert in eQTL fine mapping, scRNA-seq & scATAC-seq analyses, building gene regulatory models</li>
+        <li>:microscope: Expert in eQTL fine mapping, scRNA-seq & scATAC-seq analyses, immunology, building gene regulatory models</li>
         <li>:computer: Currently diving into machine learning for biological and genetic applications</li>
       </ul>
     </td>
