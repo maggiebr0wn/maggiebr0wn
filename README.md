@@ -1,6 +1,6 @@
 # So glad you're here!
 
-<img align = "center" src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name_horizontal.jpg" width="800" height="250" />
+<img align = "center" src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name_horizontal.jpg" width="700" height="225" />
 
 
 ## The Nitty Gritty
@@ -25,11 +25,11 @@
 ## What I've been up to :stuck_out_tongue_winking_eye: 
 
 <a href="https://github.com/maggiebr0wn/scMultiome-Crohns-Disease">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-Crohns-Disease&theme=solarized-light"/>
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-Crohns-Disease&theme=solarized-light"/>
 </a>
 
 <a href="https://github.com/maggiebr0wn/scMultiome-TFBS-Analysis">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=eQTL-AbO-Conditional-Analysis&theme=solarized-light"/>
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=eQTL-AbO-Conditional-Analysis&theme=solarized-light"/>
 </a>
 
 ## Tools for the single cell Multiomers :dna: 
