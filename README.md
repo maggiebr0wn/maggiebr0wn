@@ -1,7 +1,8 @@
 # So glad you're here!
 
-<img align = "center" src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name_horizontal.jpg" width="700" height="225" />
-
+<p align="center">
+  <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name_horizontal.jpg" width="700" height="225" />
+</p>
 
 ## The Nitty Gritty
 
