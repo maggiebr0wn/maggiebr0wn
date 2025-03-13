@@ -1,29 +1,4 @@
-# So glad you're here!
-
-<p align="center">
-  <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/name_horizontal.jpg" width="700" height="225" />
-</p>
-
-## The Nitty Gritty
-
-<table>
-  <tr>
-    <td width="30%">
-      <img src="https://github.com/maggiebr0wn/maggiebr0wn/blob/main/stem.gif" width="200" height="200" alt="Profile Image"/>
-    </td>
-    <td width="70%">
-      <ul>
-        <li>:honeybee: Bioinformatics PhD candidate at GA Tech</li>
-        <li>:peach: TX native in ATL</li>
-        <li>:dog: :turtle: My pets keep WFH from being lonely</li>
-        <li>:microscope: Expert in eQTL fine mapping, scRNA-seq & scATAC-seq analyses, immunology, building gene regulatory models</li>
-        <li>:computer: Currently diving into machine learning for biological and genetic applications</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## What I've been up to :stuck_out_tongue_winking_eye: 
+## What I've been up to 
 
 <a href="https://github.com/maggiebr0wn/scMultiome-Crohns-Disease">
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-Crohns-Disease&theme=solarized-light"/>
