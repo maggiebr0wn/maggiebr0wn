@@ -1,32 +1,54 @@
-## What I've been up to 
+# Maggie Brown
 
-<a href="https://github.com/maggiebr0wn/snATAC-Express">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=snATAC-Express&theme=solarized-light"/>
-</a>
+Bioinformatics Scientist | PhD in Bioinformatics & Machine Learning
 
-<a href="https://github.com/maggiebr0wn/scMultiome-Crohns-Disease">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-Crohns-Disease&theme=solarized-light"/>
-</a>
+## 🧬 What I've been up to
 
-<a href="https://github.com/maggiebr0wn/eQTL-AbO-Conditional-Analysis">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=eQTL-AbO-Conditional-Analysis&theme=solarized-light"/>
-</a>
+### Featured Research Projects
 
-## Tools for the single cell Multiomers :dna: 
+**[snATAC-Express](https://github.com/maggiebr0wn/snATAC-Express)**  
+Machine learning framework for predicting gene expression from chromatin accessibility data using ensemble methods. Focuses on single-cell ATAC-seq analysis in IBD and Crohn's disease research.
 
-<a href="https://github.com/maggiebr0wn/scMultiome-TFBS-Analysis">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=scMultiome-TFBS-Analysis&theme=moltack"/>
-</a>
+**[scMultiome-Crohns-Disease](https://github.com/maggiebr0wn/scMultiome-Crohns-Disease)**  
+Single-cell multiomics analysis integrating RNA-seq and ATAC-seq data to study immune cell biology in Crohn's disease.
 
-<a href="https://github.com/maggiebr0wn/ArchR-to-Seurat">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maggiebr0wn&repo=ArchR-to-Seurat&theme=moltack"/>
-</a>
+**[eQTL-AbO-Conditional-Analysis](https://github.com/maggiebr0wn/eQTL-AbO-Conditional-Analysis)**  
+eQTL fine-mapping and conditional analysis pipeline for identifying genetic variants affecting gene expression.
 
-## Nosy about my Github usage?
+---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggiebr0wn&hide=jupyter%20notebook&layout=donut&theme=flag-india"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=maggiebr0wn&layout=compact&theme=flag-india"/>
-</a>
+## 🔧 Tools for Single Cell Multiomers :dna:
+
+**[scMultiome-TFBS-Analysis](https://github.com/maggiebr0wn/scMultiome-TFBS-Analysis)**  
+Transcription factor binding site analysis tools for single-cell multiome data.
+
+**[ArchR-to-Seurat](https://github.com/maggiebr0wn/ArchR-to-Seurat)**  
+Integration utilities for converting ArchR objects to Seurat format for streamlined single-cell analysis workflows.
+
+---
+
+## 📊 GitHub Activity
+
+**Primary Languages:** R, Python, Shell scripting  
+**Focus Areas:** Single-cell genomics, chromatin accessibility, multiomics integration, machine learning
+
+**Recent Work:**
+- Developing machine learning models for gene expression prediction
+- Analyzing immune cell populations in inflammatory diseases
+- Building tools for single-cell multiomics data integration
+
+---
+
+## 🎓 Background
+
+PhD in Bioinformatics and Machine Learning from Georgia Tech, specializing in:
+- Single-cell RNA-seq and ATAC-seq analysis
+- eQTL fine-mapping and conditional analysis
+- Immune cell biology and neurodegeneration research
+- Chromatin accessibility and gene regulation
+
+---
+
+## 📫 Connect
+
+Feel free to explore my repositories and reach out for collaborations in computational biology and bioinformatics!
