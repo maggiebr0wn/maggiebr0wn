@@ -6,6 +6,9 @@ Bioinformatics Scientist | PhD in Bioinformatics & Machine Learning
 
 ### Featured Research Projects
 
+**[wgbs_classifier](https://github.com/maggiebr0wn/wgbs_classifier)**  
+Binary classification of disease from cfDNA WGBS data using fragmentomics and methylation features. A modular pipeline for binary classification of ALS vs. Control samples using cell-free DNA (cfDNA) whole-genome bisulfite sequencing (WGBS) data.
+
 **[snATAC-Express](https://github.com/maggiebr0wn/snATAC-Express)**  
 Machine learning framework for predicting gene expression from chromatin accessibility data using ensemble methods. Focuses on single-cell ATAC-seq analysis in IBD and Crohn's disease research.
 
